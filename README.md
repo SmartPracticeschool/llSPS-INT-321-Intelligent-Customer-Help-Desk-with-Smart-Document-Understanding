@@ -6,7 +6,7 @@ This project is built in IBM cloud using the serivces such as Watson Assistatn, 
 
 ## Skills Required :
 
-Python,, Node.js, IBM Cloud
+Python, Node.js, IBM Cloud
 
 ## Project Description :
 
