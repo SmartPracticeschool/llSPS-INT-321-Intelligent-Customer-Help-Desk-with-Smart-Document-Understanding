@@ -3,7 +3,7 @@
 ## Introduction
 This project is built in IBM cloud using the serivces such as Watson Assistatn, Watson Discovery, Cloud Function and Node Red Application
 
-### Skills Required:
+## Skills Required:
 Python,, Node.js, IBM Cloud
 
 ## Project Description:
