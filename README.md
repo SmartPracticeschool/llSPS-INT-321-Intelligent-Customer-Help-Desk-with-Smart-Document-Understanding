@@ -20,5 +20,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 Node red Dashboard link: https://node-red-hvkrc.eu-gb.mybluemix.net/ui
 
-Watson Assistant preview link: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=28f9a7b9-efc5-4f2b-bc91-cd36bc862a61&serviceInstanceID=fd537a56-717a-4422-bebc-fe4cc3aae816
+Watson Assistant preview link: https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=28f9a7b9-                                efc5-4f2b-bc91-cd36bc862a61&serviceInstanceID=fd537a56-717a-4422-bebc-fe4cc3aae816
 
